@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.iyzipay.starter.autoconfig.payment.PaymentAutoConfiguration,\
+com.iyzipay.starter.autoconfig.user.UserAutoConfiguration
